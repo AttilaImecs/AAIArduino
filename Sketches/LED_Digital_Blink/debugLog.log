@@ -1,0 +1,27 @@
+[Tue Feb  2 11:33:37 2021] :: Installer with command line = ""
+[Tue Feb  2 11:33:37 2021] :: Starting installer thread
+[Tue Feb  2 11:33:37 2021] :: Stopping connect processes
+[Tue Feb  2 11:33:37 2021] :: Stopping detector process
+[Tue Feb  2 11:33:37 2021] :: Backing up C:\Users\EugeniaS\AppData\Roaming\Macromedia\Flash Player\www.macromedia.com\bin\adobeconnectaddin to C:\Users\EugeniaS\AppData\Local\Temp\ConD297.tmp
+[Tue Feb  2 11:33:37 2021] :: Backing up C:\Users\EugeniaS\AppData\Roaming\Adobe\Connect to C:\Users\EugeniaS\AppData\Local\Temp\ConD297.tmp
+[Tue Feb  2 11:33:37 2021] :: Starting file download
+[Tue Feb  2 11:33:37 2021] :: Starting file download from https://www.adobe.com/go/Payload
+[Tue Feb  2 11:33:51 2021] :: Extracting files
+[Tue Feb  2 11:33:52 2021] :: Extracting files success
+[Tue Feb  2 11:33:52 2021] :: Checking payload
+[Tue Feb  2 11:33:55 2021] :: Payload check success
+[Tue Feb  2 11:33:55 2021] :: Stopping connect processes
+[Tue Feb  2 11:33:55 2021] :: Stopping detector process
+[Tue Feb  2 11:33:55 2021] :: Creating base directories at C:\Users\EugeniaS\AppData\Roaming\Adobe\Connect
+[Tue Feb  2 11:33:55 2021] :: Copy payload from C:\Users\EugeniaS\AppData\Local\Temp\Con793.tmp to C:\Users\EugeniaS\AppData\Roaming\Adobe\Connect
+[Tue Feb  2 11:33:55 2021] :: Payload copy success
+[Tue Feb  2 11:33:55 2021] :: Removing extracted payload from C:\Users\EugeniaS\AppData\Local\Temp\Con793.tmp
+[Tue Feb  2 11:33:55 2021] :: file download success=1
+[Tue Feb  2 11:33:55 2021] :: Creating uninstall keys
+[Tue Feb  2 11:33:55 2021] :: uninstall keys succcess=1
+[Tue Feb  2 11:33:55 2021] :: Creating protocol keys
+[Tue Feb  2 11:33:55 2021] :: protocol keys success=1
+[Tue Feb  2 11:33:55 2021] :: Creating startup keys
+[Tue Feb  2 11:33:55 2021] :: Startup keys success=1
+[Tue Feb  2 11:33:55 2021] :: Committing transaction
+[Tue Feb  2 11:33:55 2021] :: Starting Detector process
